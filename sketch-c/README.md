@@ -1,4 +1,4 @@
-# January Imperative 
+# January Imperative
 
 Languages Used:
 
@@ -7,10 +7,6 @@ ECMAScript 2017
 TypeScript
 
 ## Resources
-- [List.c on Github](https://github.com/raigasm/List.c)
-- [Search.c on Github](https://github.com/raigasm/Search.c)
-- [Sketch.c on Github](https://github.com/raigasm/Sketch.c)
-- [Sketch.ts on Github](https://github.com/raigasm/Sketch.ts) 
 
-
-
+* [Sketch.c on Github](https://github.com/raigasm/Sketch.c)
+* [Sketch.c Coursework Docs](https://csijh.gitlab.io/COMS10008/cw/sketch/)
